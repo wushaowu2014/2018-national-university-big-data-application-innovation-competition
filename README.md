@@ -7,13 +7,16 @@
 预赛：
 ---
 
->preliminary
->>stacking.py
-
->>nn_model.py
-
+>preliminary<br>
+>>stacking.py<br>
+>>nn_model.py<br>
 >>pre.py
 
 决赛：
 ---
-/semifinal/
+
+>semifinal<br>
+>>utils.py<br>
+>>build_features.py<br>
+>>stacking.py<br>
+>>pre.py
