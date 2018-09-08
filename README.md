@@ -9,4 +9,4 @@
 /preliminary/
 
 决赛：
-
+/semifinal/
