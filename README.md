@@ -8,9 +8,5 @@
 
 /preliminary/
 
-     stacking.py
-
-     pre.py
-
 决赛：
 
